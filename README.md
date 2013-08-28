@@ -1,16 +1,15 @@
-## [giter8](http://github.com/n8han/giter8) template for mixed Java/Scala maven project
+## [giter8](http://github.com/n8han/giter8) template for a Spark 0.7.3 maven project
 
 ### uses
-* Java >= 1.6
-* Scala 2.10.2
-* Scalatest 1.9.1
-* junit 4.11
+* Spark 0.7.3
 
 ### usage:
-Follow g8 [installation instructions](http://github.com/n8han/giter8#readme)  
+Follow g8 [installation instructions](http://github.com/n8han/giter8#readme)
+Works on Mac and PCs as well
+
 go to your favourite shell and enter  
 
-    g8 kobmic/java-scala-mvn
+    g8 roolio/spark
     cd [app-name]
     mvn clean install
 
