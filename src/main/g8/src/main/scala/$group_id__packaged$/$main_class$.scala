@@ -5,12 +5,6 @@ import SparkContext._
 import spark._
 
 
-object $main_class$ extends App{
-  //def main(args: Array[String]) {
-   // do something
-  }
-}
+object $main_class$ extends App {
 
-class $main_class$ {
-  // do something
 }
