@@ -1,12 +1,12 @@
-package $group_id$
+package $group_id$.$name$
 
 import spark.SparkContext
 import SparkContext._
 import spark._
 
 
-object $main_class$ {
-  def main(args: Array[String]) {
+object $main_class$ extends App{
+  //def main(args: Array[String]) {
    // do something
   }
 }

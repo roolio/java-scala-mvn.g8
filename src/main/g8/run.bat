@@ -1,1 +1,1 @@
-mvn exec:java -Dexec.mainClass=$main_class$
+mvn exec:java -Dexec.mainClass=$group_id$.$name$.$main_class$
